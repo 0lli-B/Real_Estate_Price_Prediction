@@ -13,7 +13,6 @@
   ->Random Forest Regressor<br>
   ->Gradient Boosting Regressor<br>
   ->Deep Neural Network<br>
-  ->Voting Regressor (Combination of the best models above)<br>
-
+  ->Voting Regressor (combination of the best models above)<br>
 6)Evaluation of each model with the testset<br>
-7.Fit the best model with the full dataset & build a pipeline<br>
+7)Fit the best model with the full dataset & build a pipeline<br>
